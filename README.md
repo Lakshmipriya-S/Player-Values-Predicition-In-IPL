@@ -24,11 +24,11 @@ This, prediction of the value will also give an idea of what the maximum value a
 
 ## Web Page
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Lakshmipriya-S/Player-Values-Predicition-In-IPL/blob/main/IPL.png)
 
   
 ## 🔗 Web Page Link
-[![Link](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
+[![Link](https://img.shields.io/badge/Website-Link-green?style=flat&logo=appveyor)](https://ipl-predict-player-value.herokuapp.com/)
 
 ## Conclusion
 
